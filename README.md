@@ -1,10 +1,19 @@
-# 👋 Hi, I'm Abdulrahman Amir!
+# 👋 Hi, I'm Abdulrahman!
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=3bdulra7manAmir)
 <br>
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ShadowCompany)
 <br>
+
+![Abdulrahman's Stats](https://github-readme-stats.vercel.app/api?username=3bdulra7manAmir&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+<br>
+
+# My Technologies
+[![My Skills](https://skillicons.dev/icons?i=flutter,python,dart,cpp,java,androidstudio,firebase)](https://skillicons.dev)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanamir&theme=github_dark&layout=compact)](https://github.com/3bdulra7manAmir)
+
 
 ### 🧑‍💻 About Me
 I'm a passionate **developer** and **coder** who loves programming and creating new apps and scripts. My main focus is on **Flutter** and **Python**, but I also dive into some exciting secondary areas like **Call of Duty modding**, **modeling**, and **GSC scripting**.
