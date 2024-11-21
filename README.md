@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=3bdulra7manAmir)
 <br>
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ShadowCompany)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShadowCompany)
 <br>
 
 ![Abdulrahman's Stats](https://github-readme-stats.vercel.app/api?username=3bdulra7manAmir&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
