@@ -2,7 +2,6 @@
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=3bdulra7manAmir)
-<br>
 [![wakatime](https://wakatime.com/badge/user/ShadowCompany.svg)](https://wakatime.com/@ShadowCompany)
 <br>
 
