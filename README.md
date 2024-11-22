@@ -9,11 +9,13 @@
 <br>
 
 # My Technologies
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,python,androidstudio,java,cpp,cs,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,python,java,cpp,cs,mysql,git)](https://skillicons.dev)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdulra7manamir&theme=github_dark&layout=compact)](https://github.com/3bdulra7manAmir)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=debian,raspberrypi,linux,kali,mint,powershell,stackoverflow,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=debian,raspberrypi,linux,windows,kali,ubuntu,mint,powershell,stackoverflow,discord)](https://skillicons.dev)
 
 
 ### 🧑‍💻 About Me
