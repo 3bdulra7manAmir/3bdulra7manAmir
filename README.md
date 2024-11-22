@@ -39,5 +39,5 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 <br>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/3bdulra7manamir)
-&nbsp; [![Discord](https://skillicons.dev/icons?i=discord)]([https://www.linkedin.com/in/3bdulra7manamir](https://discord.com/users/524660965044650027))
-&nbsp; 
+&nbsp; [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/524660965044650027)
+&nbsp;
