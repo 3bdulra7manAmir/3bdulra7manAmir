@@ -15,7 +15,6 @@
 <br>
 
 # Works with!
-<br>
 [![My Skills](https://skillicons.dev/icons?i=debian,raspberrypi,linux,windows,kali,ubuntu,mint,powershell,stackoverflow)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,discord)](https://skillicons.dev)
