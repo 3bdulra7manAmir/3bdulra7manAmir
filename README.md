@@ -9,7 +9,7 @@
 <br>
 
 # My Technologies
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,androidstudio,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,androidstudio,java,gsc,cpp)](https://skillicons.dev)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bdulra7manamir&theme=github_dark&layout=compact)](https://github.com/3bdulra7manAmir)
 
